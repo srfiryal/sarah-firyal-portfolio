@@ -47,7 +47,7 @@ This website is built with:
 
 ## 🌐 Visit My Portfolio
 
-🔗 **Live Website:** https://sarah-firyal.vercel.app  
+🔗 **Live Website:** https://sarahfiryal.vercel.app  
 🔗 **LinkedIn:** https://linkedin.com/in/sarah-rizqi-firyal
 
 Let’s connect!
